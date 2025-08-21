@@ -1,18 +1,8 @@
-Perfeito, Robson 👌
-Vou montar um **README.md** para o seu projeto Spring, já com uma estrutura profissional, incluindo as tecnologias utilizadas.
-
-Você pode adaptar o nome e a descrição do projeto conforme for necessário.
-
----
-
-## 📄 Exemplo de README.md
-
-````markdown
-# 📌 Projeto Spring Boot - Sistema de Gestão
+# 📌 Projeto Spring Boot - Sistema de Aposta
 
 Este projeto foi desenvolvido utilizando **Spring Boot** como framework principal, com foco em escalabilidade, segurança e boas práticas de desenvolvimento.  
 
-O objetivo do sistema é gerenciar [💡 descreva aqui a finalidade do seu projeto, exemplo: contratos, pagamentos, colaboradores e relatórios administrativos].
+O objetivo do sistema é gerenciar um sistema de apostas.
 
 ---
 
