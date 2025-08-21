@@ -1,0 +1,9 @@
+package br.com.robson.pixbet.repositories;
+
+import br.com.robson.pixbet.models.Sorteio;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface SorteioRepository extends JpaRepository<Sorteio, Long> {
+}
